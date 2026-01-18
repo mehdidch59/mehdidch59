@@ -1,29 +1,29 @@
 ### Hi there, I'm Mehdi Chafai! 👋
 
-**Fullstack Engineer & Cybersecurity Enthusiast** based in France 🇫🇷.
+**Fullstack Engineer & Cybersecurity Enthusiast** based in France.
 Currently working as an **Apprentice Software Engineer**.
 
-> 🇬🇧 **English:** I love building secure, scalable web applications and exploring the depths of infrastructure security. When I'm not coding, I'm probably optimizing WAF rules or learning about the latest CVEs.
->
-> 🇫🇷 **Français :** J'aime concevoir des applications web sécurisées et scalables. Quand je ne code pas, je suis probablement en train d'optimiser des règles WAF ou d'analyser les dernières CVEs.
+I love building secure, scalable web applications and exploring the depths of infrastructure security. When I'm not coding, I'm probably optimizing WAF rules or learning about the latest CVEs.
 
 ---
 
 ### 🚀 Featured Project: Stratum (SaaS)
-
 *A next-generation distributed vulnerability scanner built for scale.*
-*(Un scanner de vulnérabilités distribué nouvelle génération.)*
+
+I built this SaaS from scratch to challenge myself with complex engineering problems: handling asynchronous tasks, real-time data streaming, and enterprise-grade security.
 
 * **🔴 Live App:** [console.stratum-app.com](https://console.stratum-app.com)
 * **🌐 Website:** [stratum-app.com](https://stratum-app.com)
-* **🔒 Status:** Private Source (Commercial Product / Beta)
+* **🔒 Status:** Private Source (Commercial Product / Closed Beta)
 
-| 🇬🇧 Architecture Highlights | 🇫🇷 Points Clés Techniques |
-| :--- | :--- |
-| **Async Engine:** Non-blocking scanning using FastAPI & Celery. | **Moteur Async :** Scan non-bloquant via FastAPI & Celery. |
-| **Security First:** Strict CSP (Grade A+), WAF & Cloudflare Zero Trust. | **Sécurité :** CSP strictes (Grade A+), WAF & Cloudflare Zero Trust. |
-| **Real-time:** WebSockets for instant scan feedback. | **Temps Réel :** WebSockets pour un feedback instantané. |
-| **Business:** Full Stripe B2B integration (Webhooks). | **Business :** Intégration Stripe B2B complète. |
+**The Tech Stack:**
+* **Backend:** Python, FastAPI (Async), Celery, Redis
+* **Frontend:** React, TypeScript, TailwindCSS
+* **Infra/Sec:** Docker, Cloudflare Zero Trust & WAF, Supabase Auth
+* **Key Features:**
+    * Architected a non-blocking async scanning engine.
+    * Implemented strict CSP (Grade A+) & Real-time WebSockets.
+    * Full Stripe B2B integration (Webhooks & Subscriptions).
 
 ---
 
@@ -43,7 +43,7 @@ Currently working as an **Apprentice Software Engineer**.
 
 ---
 
-### 📬 Connect with me / Me retrouver
+### 📬 Connect with me
 
 * **Portfolio & Blog:** [mehdichafai.me](https://mehdichafai.me)
 * **LinkedIn:** [linkedin.com/in/mehdichafai](https://www.linkedin.com/in/mehdichafai/)
