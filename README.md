@@ -3,27 +3,29 @@
 **Fullstack Engineer & Cybersecurity Enthusiast** based in France.
 Currently working as an **Apprentice Software Engineer**.
 
-I love building secure, scalable web applications and exploring the depths of infrastructure security. When I'm not coding, I'm probably optimizing WAF rules or learning about the latest CVEs.
+> 💡 **Explore my full Portfolio & Projects Showcase:**
+> ## 👉 [mehdichafai.me](https://mehdichafai.me)
 
 ---
 
-### 🚀 Featured Project: Stratum (SaaS)
+### 🚀 Featured Commercial Project: Stratum (SaaS)
 *A next-generation distributed vulnerability scanner built for scale.*
 
 I built this SaaS from scratch to challenge myself with complex engineering problems: handling asynchronous tasks, real-time data streaming, and enterprise-grade security.
 
 * **🔴 Live App:** [console.stratum-app.com](https://console.stratum-app.com)
-* **🌐 Website:** [stratum-app.com](https://stratum-app.com)
-* **🔒 Status:** Private Source (Commercial Product / Closed Beta)
+* **🌐 Marketing Site:** [stratum-app.com](https://stratum-app.com)
+* **🔒 Status:** Private Source (Commercial Product / Beta)
 
-**The Tech Stack:**
-* **Backend:** Python, FastAPI (Async), Celery, Redis
-* **Frontend:** React, TypeScript, TailwindCSS
-* **Infra/Sec:** Docker, Cloudflare Zero Trust & WAF, Supabase Auth
-* **Key Features:**
-    * Architected a non-blocking async scanning engine.
-    * Implemented strict CSP (Grade A+) & Real-time WebSockets.
-    * Full Stripe B2B integration (Webhooks & Subscriptions).
+**The Engineering Behind It:**
+* **Backend:** Python, FastAPI (Async), Celery, Redis.
+* **Frontend:** React, TypeScript, TailwindCSS.
+* **Infra/Sec:** Docker, Cloudflare Zero Trust & WAF, Supabase Auth.
+* **Key Challenges Solved:**
+    * Architected a non-blocking **async scanning engine**.
+    * Implemented strict **Content Security Policies (CSP Grade A+)**.
+    * Real-time feedback via **WebSockets**.
+    * Full **Stripe B2B** integration (Webhooks & Subscriptions).
 
 ---
 
@@ -45,9 +47,9 @@ I built this SaaS from scratch to challenge myself with complex engineering prob
 
 ### 📬 Connect with me
 
-* **Portfolio & Blog:** [mehdichafai.me](https://mehdichafai.me)
 * **LinkedIn:** [linkedin.com/in/mehdichafai](https://www.linkedin.com/in/mehdichafai/)
 * **Instagram:** [@mehdidc](https://www.instagram.com/mehdidc/)
+* **Email:** [hello@mehdichafai.me](mailto:hello@mehdichafai.me)
 
 ---
 *Scanning the web, one packet at a time.* 🕵️‍♂️
