@@ -1,7 +1,7 @@
 ### Hi there, I'm Mehdi Chafai! 👋
 
 **Fullstack Engineer & Cybersecurity Enthusiast** based in France.
-Currently working as an **Apprentice Software Engineer**.
+Currently working as an **Apprentice DevSecOps Engineer**.
 
 > 💡 **Explore my full Portfolio & Projects Showcase:**
 > ## 👉 [mehdichafai.me](https://mehdichafai.me)
@@ -26,6 +26,12 @@ I built this SaaS from scratch to challenge myself with complex engineering prob
     * Implemented strict **Content Security Policies (CSP Grade A+)**.
     * Real-time feedback via **WebSockets**.
     * Full **Stripe B2B** integration (Webhooks & Subscriptions).
+
+---
+
+### 📦 Digital Products
+
+* **FastAPI React SaaS Starter Kit:** [Get it on Gumroad](https://mehdidch.gumroad.com/l/fastapi-react-saas) 🚀
 
 ---
 
