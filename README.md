@@ -1,5 +1,7 @@
 ### Hi there, I'm Mehdi Chafai! 👋
 
+[![SaaS Starter Kit](https://img.shields.io/badge/Get%20Pro%20Starter%20Kit-FastAPI%20%2B%20React-7F56D9?style=for-the-badge&logo=gumroad&logoColor=white)](https://mehdidch.gumroad.com/l/fastapi-react-saas)
+
 **Fullstack Engineer & Cybersecurity Enthusiast** based in France.
 Currently working as an **Apprentice DevSecOps Engineer**.
 
@@ -22,16 +24,25 @@ I built this SaaS from scratch to challenge myself with complex engineering prob
 * **Frontend:** React, TypeScript, TailwindCSS.
 * **Infra/Sec:** Docker, Cloudflare Zero Trust & WAF, Supabase Auth.
 * **Key Challenges Solved:**
-    * Architected a non-blocking **async scanning engine**.
-    * Implemented strict **Content Security Policies (CSP Grade A+)**.
-    * Real-time feedback via **WebSockets**.
-    * Full **Stripe B2B** integration (Webhooks & Subscriptions).
+  * Architected a non-blocking **async scanning engine**.
+  * Implemented strict **Content Security Policies (CSP Grade A+)**.
+  * Real-time feedback via **WebSockets**.
+  * Full **Stripe B2B** integration (Webhooks & Subscriptions).
 
 ---
 
 ### 📦 Digital Products
 
-* **FastAPI React SaaS Starter Kit:** [Get it on Gumroad](https://mehdidch.gumroad.com/l/fastapi-react-saas) 🚀
+**🚀 Want to ship your SaaS this weekend?**
+
+Stop wasting time on configuration. I packaged the exact architecture I used for Stratum into a production-ready boilerplate.
+
+* ✅ **FastAPI (Async)** Backend
+* ✅ **React + Tailwind** Frontend
+* ✅ **Stripe** Payments & Webhooks
+* ✅ **Auth** & **Docker** pre-configured
+
+👉 **[Download the SaaS Starter Kit here](https://mehdidch.gumroad.com/l/fastapi-react-saas)**
 
 ---
 
