@@ -66,7 +66,7 @@ Stop wasting time on configuration. I packaged the exact architecture I used for
 
 * **LinkedIn:** [linkedin.com/in/mehdichafai](https://www.linkedin.com/in/mehdichafai/)
 * **Instagram:** [@mehdidc](https://www.instagram.com/mehdidc/)
-* **Email:** [hello@mehdichafai.me](mailto:hello@mehdichafai.me)
+* **Email:** [contact@mehdichafai.me](mailto:contact@mehdichafai.me)
 
 ---
 *Scanning the web, one packet at a time.* 🕵️‍♂️
